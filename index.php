@@ -1,5 +1,6 @@
 <?php 
 	
-	echo "testovacia aplikacia";
+	echo "testovacia aplikacia <br />";
+	echo "Novy update";
 	
 ?>
